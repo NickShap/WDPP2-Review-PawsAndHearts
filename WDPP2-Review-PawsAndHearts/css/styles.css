@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #7e45dd;
 }
 .btn-1{
@@ -18,4 +18,7 @@ body{
     background-color: #7e45dd;
     border-color:white;
     color: white;
+}
+#Adopt-a-Pet{
+    background-color: #fefdff;
 }
