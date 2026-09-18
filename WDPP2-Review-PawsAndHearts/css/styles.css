@@ -1,24 +1,47 @@
 body {
     background-color: #7e45dd;
 }
-.btn-1{
+
+.btn-1 {
     background-color: #7e45dd;
     border-color: #7e45dd;
     color: white;
 }
-.dih{
+
+.dih {
     color: white;
 }
-.btn-2{
+
+.btn-2 {
     background-color: white;
     border-color: white;
     color: #7e45dd;
 }
-.btn-3{
+
+.btn-3 {
     background-color: #7e45dd;
-    border-color:white;
+    border-color: white;
     color: white;
 }
-#Adopt-a-Pet{
+
+#Adopt-a-Pet {
     background-color: #fefdff;
+}
+
+#Sus {
+    background-color: #f1f1f1;
+}
+
+.sus-image {
+    display: block;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 2rem;
+}
+#epstein {
+    background-color: #fefdff;
+}
+#Contact-Us {
+    background-color: #f1f1f1;
 }
